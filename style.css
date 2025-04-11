@@ -1,0 +1,28 @@
+/* style.css */
+body {
+  font-family: sans-serif;
+  background: #f9f9f9;
+  color: #111;
+  max-width: 800px;
+  margin: auto;
+  padding: 1rem;
+}
+header {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 1rem;
+}
+nav a {
+  margin-right: 1em;
+  text-decoration: none;
+  color: #555;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+footer {
+  margin-top: 2rem;
+  font-size: 0.9em;
+  color: #666;
+  border-top: 1px solid #ccc;
+  padding-top: 1rem;
+}
